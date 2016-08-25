@@ -16,6 +16,7 @@ private string r;
 private data datatime;
 int s=5;
 
+b=b+a;
 	}
 
 
