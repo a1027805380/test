@@ -6,6 +6,10 @@ public class wqee {
 		// TODO Auto-generated method stub
 int a=1;
 int b=2;
+
+private string c;
+
 	}
+
 
 }
