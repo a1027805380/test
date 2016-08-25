@@ -10,6 +10,7 @@ private string c;
 private int d=1;
 int f=0;
 int y=1;
+int h=1;
 	}
 
 
