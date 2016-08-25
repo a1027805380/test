@@ -14,7 +14,7 @@ int h=1;
 int x=11;
 private string r;
 private data datatime;
-
+int s=5;
 
 	}
 
