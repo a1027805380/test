@@ -7,6 +7,7 @@ public class wqee {
 int a=1;
 int b=2;
 private string c;
+private int d=1;
 	}
 
 
